@@ -1,6 +1,6 @@
 # Hacker-News-Posts
 
-This project aims to analyse Hacker News posts using a dataset derived from [kaggle](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts) with a goal to answer the below 2 questions:
+This project aims to analyse Hacker News posts using a sample dataset (posts without receiving any comment were removed) originally derived from [kaggle](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts) with a goal to answer the below 2 questions:
 - Do`Ask HN posts`or`Show HN posts`receive more comments on average?
   - An`Ask HN`post is a type of post users submit to ask a specific question on the Hacker News community, such as "How to improve my personal website?" 
   - A`Show HN`post is a type of post users submit to show a project, product, or just generally something interesting on the Hacker News community.
